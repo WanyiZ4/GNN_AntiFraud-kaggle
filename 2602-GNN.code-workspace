@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"remote.SSH.connectTimeout": 60,
+    "remote.SSH.keepAlive": true,
+    "remote.SSH.useLocalServer": false,
+    "remote.SSH.enableDynamicForwarding": false,
+    "remote.SSH.showLoginTerminal": true
+}
