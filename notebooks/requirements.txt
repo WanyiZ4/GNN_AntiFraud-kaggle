@@ -1,0 +1,10 @@
+kagglehub==1.0.0
+matplotlib==3.10.8
+networkx==3.6.1
+numpy==2.4.3
+pandas==3.0.1
+scikit_learn==1.8.0
+scipy==1.17.1
+seaborn==0.13.2
+torch==2.6.0+cpu
+torch_geometric==2.7.0
